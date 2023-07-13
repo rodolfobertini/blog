@@ -9,4 +9,5 @@ date: 2023-07-12
 
   
        
-       “Não sei se o mundo é bom, mas esle está melhor, desde que você chegou” -- Nando Reis
+       “Não sei se o mundo é bom, mas esle está melhor, desde que você chegou” 
+       -- Nando Reis
